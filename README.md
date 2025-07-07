@@ -7,7 +7,8 @@ A full-stack web application that uses Spring Boot (Java) on the backend and Rea
 ## 📁 Project Structure
 
 Email Writer/
-├── email-writer/ # Backend - Spring Boot
+├── email-writer/ 
+# Backend - Spring Boot
 │ ├── src/main/java/com/email/writer/
 │ ├── src/main/resources/
 │ └── pom.xml
