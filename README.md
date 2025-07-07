@@ -51,20 +51,19 @@ Email Writer/
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/email-writer.git
 cd email-writer
 
 
 2. Backend Setup (Spring Boot)
-```bash
+bash
 cd email-writer/email-writer
 ./mvnw spring-boot:run
 
 Make sure Java 17+ and Maven are installed on your system.
 
 3. Frontend Setup (React)
-```bash
+bash
 cd ../../email-writer-react
 npm install
 npm start
