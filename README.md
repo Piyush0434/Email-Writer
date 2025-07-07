@@ -71,24 +71,27 @@ npm start
 Make sure Node.js and npm are installed.
 
 
+
 🔌 API Endpoint
 POST /generate-email
 
 Request Body:
 
-json
-
 {
+
   "topic": "Request for leave",
   "tone": "formal",
   "recipient": "HR Department"
+
 }
+
+
 Response:
 
-json
-
 {
+
   "email": "Dear HR Department, I would like to request leave for..."
+
 }
 
 🛠️ Development Notes
